@@ -14,8 +14,8 @@ const AboutSection = () => {
 
   const testimonials = [
   {
-    text: "Wow, so glad I didn't listen to negative reviews.Absolutely amazing job done. 1st class service, communication and quality work at a fantastic price, answered any questions promptly.100% use again and highly recommend. 5* plus.",
-    name: "Amy Mccarty",
+    text: "After doing an excellent job on my car with a polish and ceramic coating,decided to have the wife's done. Just collected and it's better than new,deep wet look shine. Great service and workmanship. If you want your car to look incredible Dom,s the man.",
+    name: "Martin Spencer",
   },
 
 ]
